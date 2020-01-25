@@ -20,42 +20,23 @@ SOFTWARE.
 
 'use strict'
 
-const express = require('express')
-const cors = require('cors')
 const videos = require('./videos.json')
-const oneyPlays = require('./oneyPlays')
 
-function endpointCreation() {
+/*
+ * @param {string} videoGameTitle: (mandatory) serch query
+ * @return {object} searchResult: an object with the matching video game titles
+ */
+
+const oneyPlays = videoGameTitle => {
   try {
-    const app = express()
-    app.use(cors())
-    const port = process.env.PORT || 5000
-
-    // providing a dynamic endpoint for videos by ID
-    app.get('/api/1/videos/:id', (req, res) => {
-      const id = req.params.id
-      const idResult = videos.filter(video => {
-        if (video.id == id) return video
-      })
-      idResult[0] ? res.json(idResult) : res.status(404).json({ error: 'no such id!' })
-      console.log(`/api/1/videos/${id} endpoint has been called!`)
+    const queryRegex = RegExp(videoGameTitle, 'gi')
+    const searchResult = videos.filter(video => {
+      if (queryRegex.test(video.title)) return video
     })
-
-    // providing a dynamic endpoint for searches
-    app.get('/api/1/videos', (req, res) => {
-      const query = req.query.q
-      const searchResult = oneyPlays(query)
-      res.json(searchResult)
-      console.log(`/api/1/videos?q=${query} endpoint has been called!`)
-    })
-
-    app.listen(port)
-
-    console.log(
-      `API is listening on ${port}\nEndpoint is ready at: localhost:${port}/api/1/videos/ \nCheck documentation at: https://github.com/theDavidBarton/oneyplays-api`
-    )
+    return searchResult
   } catch (e) {
     console.error(e)
   }
 }
-endpointCreation()
+
+module.exports = oneyPlays

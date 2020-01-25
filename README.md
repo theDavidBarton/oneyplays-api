@@ -1,8 +1,30 @@
 # oneyplays-api
 
-An api to provide info about [OneyPlays](https://www.youtube.com/channel/UCO1ITICo8MLHGAXR1uzFwjA) (OneyNG's gaming YouTube channel)
+An api to provide info about [OneyPlays](https://www.youtube.com/channel/UCO1ITICo8MLHGAXR1uzFwjA) videos (OneyNG's gaming YouTube channel).
 
 # Usage
+
+## Node api
+
+```javascript
+const oneyPlays = require('oneyPlays')
+const searchLittleHarry = oneyPlays('harry potter')
+```
+
+=>
+
+```
+[
+  {
+    id: 28,
+    title: 'Harry Potter And The Chamber Of Secrets',
+    url: 'https://www.youtube.com/watch?v=mae2i1atCWk',
+    yt_id: 'mae2i1atCWk'
+  }
+]
+```
+
+## HTTP api
 
 `GET` **/api/1/videos/{id}** - returns a specific video game title with the id
 
