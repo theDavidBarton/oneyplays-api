@@ -1,3 +1,6 @@
+[![npm package](https://img.shields.io/npm/v/oneyplays-api.svg)](https://www.npmjs.com/package/oneyplays-api)
+
+
 # oneyplays-api
 
 An api to provide info about [OneyPlays](https://www.youtube.com/channel/UCO1ITICo8MLHGAXR1uzFwjA) videos (OneyNG's gaming YouTube channel).
@@ -6,8 +9,12 @@ An api to provide info about [OneyPlays](https://www.youtube.com/channel/UCO1ITI
 
 ## Node api
 
+```bash
+yarn add oneyplays-api
+```
+
 ```javascript
-const oneyPlays = require('oneyPlays')
+const oneyPlays = require('oneyplays-api')
 const searchLittleHarry = oneyPlays('harry potter')
 ```
 
@@ -25,6 +32,8 @@ const searchLittleHarry = oneyPlays('harry potter')
 ```
 
 ## HTTP api
+
+Served by Express.Js. [see server.js](./server.js)
 
 `GET` **/api/1/videos/{id}** - returns a specific video game title with the id
 
