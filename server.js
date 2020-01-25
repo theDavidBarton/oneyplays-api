@@ -44,10 +44,10 @@ function endpointCreation() {
     app.get('/api/1/videos', (req, res) => {
       const query = req.query.q
       const queryRegex = RegExp(query, 'gi')
-      const personResult = videos.filter(video => {
+      const searchResult = videos.filter(video => {
         if (queryRegex.test(video.title)) return video
       })
-      res.json(personResult)
+      res.json(searchResult)
       console.log(`/api/1/videos?q=${query} endpoint has been called!`)
     })
 
