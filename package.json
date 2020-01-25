@@ -1,0 +1,24 @@
+{
+  "name": "oneyplays-api",
+  "version": "1.0.0",
+  "description": "An api to provide info about OneyPlays videos (OneyNG's gaming YouTube channel).",
+  "main": "oneyPlays.js",
+  "author": "David Barton (theDavidBarton)",
+  "license": "MIT",
+  "repository": "https://github.com/theDavidBarton/oneyplays-api",
+  "homepage": "https://github.com/theDavidBarton/oneyplays-api#readme",
+  "engines": {
+    "node": ">=8.16.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "keywords": [
+    "oneyplays",
+    "oneyNG",
+    "api",
+    "youtube",
+    "gaming"
+  ]
+}
