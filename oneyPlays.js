@@ -23,15 +23,15 @@ SOFTWARE.
 const videos = require('./videos.json')
 
 /*
- * @param {string} videoGameTitle: (mandatory) serch query
+ * @param {string} queryString: (mandatory) search query, either video game title or RAWG game ID
  * @return {object} searchResult: an object with the matching video game titles
  */
 
-const oneyPlays = videoGameTitle => {
+const oneyPlays = queryString => {
   try {
-    const queryRegex = RegExp(videoGameTitle, 'gi')
+    const queryRegex = RegExp(queryString, 'gi')
     const searchResult = videos.filter(video => {
-      if (queryRegex.test(video.title)) return video
+      if (queryRegex.test(video.title) || queryRegex.test(video.rawg_id)) return video
     })
     return searchResult
   } catch (e) {
