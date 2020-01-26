@@ -14,7 +14,7 @@ yarn add oneyplays-api
 
 ```javascript
 const oneyPlays = require('oneyplays-api')
-const searchLittleHarry = oneyPlays('harry potter')
+const searchLittleHarry = oneyPlays('harry potter') // video game title OR RAWG ID
 ```
 
 =>
@@ -38,7 +38,7 @@ Served by Express.Js. [see server.js](./server.js)
 
 `GET` **/api/1/videos/{id}** - returns a specific video game title with the id
 
-`GET` **/api/1/videos/?q={query}** - returns search result for the query string. E.g.: /api/1/videos/?q=crash
+`GET` **/api/1/videos/?q={query}** - returns search result for the query string (video game title OR RAWG ID). E.g.: /api/1/videos/?q=crash
 
 ```json
 [
