@@ -1,6 +1,6 @@
 {
   "name": "oneyplays-api",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "An api to provide info about OneyPlays videos (OneyNG's gaming YouTube channel).",
   "main": "oneyPlays.js",
   "author": "David Barton (theDavidBarton)",
@@ -10,15 +10,17 @@
   "engines": {
     "node": ">=8.16.0"
   },
-  "dependencies": {
+  "devDependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "request": "^2.88.0"
   },
   "keywords": [
     "oneyplays",
     "oneyNG",
     "api",
     "youtube",
-    "gaming"
+    "gaming",
+    "RAWG"
   ]
 }
