@@ -20,11 +20,15 @@ SOFTWARE.
 
 // pairs the scraped YouTube video data with gaming info (RAWG ID and release year)
 
+/* input format example ('./videos_raw.json'):
+id, title, yt_id, yt_thumbnail
+*/
+
 'use strict'
 
 const request = require('request')
 const fs = require('fs')
-const videos = require('./videos.json')
+const videos = require('./videos_raw.json')
 const userAgent = { 'User-Agent': 'video-games-on-RAWG-react-app (GitHub)' }
 const optionsGetRAWG = {
   method: 'GET',
@@ -39,8 +43,8 @@ let parsedResult
 const apiCall = async options => {
   // (I.) promise to return the parsedResult for processing
   function rawgRequest() {
-    return new Promise(function(resolve, reject) {
-      request(options, function(error, response, body) {
+    return new Promise(function (resolve, reject) {
+      request(options, function (error, response, body) {
         try {
           body ? resolve(JSON.parse(body)) : resolve({ results: [] })
         } catch (e) {
@@ -60,7 +64,7 @@ const apiCall = async options => {
 
 const pairWithRAWG = async () => {
   try {
-    const promises = videos.map(async (el, i) => {
+    for (const [i, el] of videos.entries()) {
       try {
         optionsGetRAWG.qs.search = el.title
         newVideos[el.id] = {
@@ -85,7 +89,7 @@ const pairWithRAWG = async () => {
             ? ((newVideos[el.id].id = el.id),
               (newVideos[el.id].title = el.title),
               (newVideos[el.id].release_year = rawgYear),
-              (newVideos[el.id].url = el.url),
+              (newVideos[el.id].url = `https://www.youtube.com/watch?v=${el.yt_id}`),
               (newVideos[el.id].yt_id = el.yt_id),
               (newVideos[el.id].yt_thumbnail = `https://i.ytimg.com/vi/${el.yt_id}/mqdefault.jpg`),
               (newVideos[el.id].rawg_id = rawgId))
@@ -93,7 +97,7 @@ const pairWithRAWG = async () => {
               (newVideos[el.id].id = el.id),
               (newVideos[el.id].title = el.title),
               (newVideos[el.id].release_year = null),
-              (newVideos[el.id].url = el.url),
+              (newVideos[el.id].url = `https://www.youtube.com/watch?v=${el.yt_id}`),
               (newVideos[el.id].yt_id = el.yt_id),
               (newVideos[el.id].yt_thumbnail = `https://i.ytimg.com/vi/${el.yt_id}/mqdefault.jpg`),
               (newVideos[el.id].rawg_id = null))
@@ -102,7 +106,7 @@ const pairWithRAWG = async () => {
           newVideos[el.id].id = el.id
           newVideos[el.id].title = el.title
           newVideos[el.id].release_year = null
-          newVideos[el.id].url = el.url
+          newVideos[el.id].url = `https://www.youtube.com/watch?v=${el.yt_id}`
           newVideos[el.id].yt_id = el.yt_id
           newVideos[el.id].yt_thumbnail = `https://i.ytimg.com/vi/${el.yt_id}/mqdefault.jpg`
           newVideos[el.id].rawg_id = null
@@ -111,9 +115,8 @@ const pairWithRAWG = async () => {
       } catch (e) {
         console.error(e)
       }
-    })
-
-    await Promise.all(promises)
+      fs.writeFileSync('videos_TEMP.json', JSON.stringify(newVideos))
+    }
 
     return newVideos
   } catch (e) {
