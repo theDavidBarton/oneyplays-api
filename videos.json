@@ -1,15 +1,24 @@
 [
   {
     "id": 1,
-    "title": "Super Mario Odyssey",
-    "release_year": "2017",
-    "url": "https://www.youtube.com/watch?v=C1OV_magiDo",
-    "yt_id": "C1OV_magiDo",
-    "yt_thumbnail": "https://i.ytimg.com/vi/C1OV_magiDo/mqdefault.jpg",
-    "rawg_id": 28026
+    "title": "SCARY + WEIRD Itch.io + Gamejolt Games",
+    "release_year": null,
+    "url": "https://www.youtube.com/watch?v=Lny5xDa7D4I",
+    "yt_id": "Lny5xDa7D4I",
+    "yt_thumbnail": "https://i.ytimg.com/vi/Lny5xDa7D4I/mqdefault.jpg",
+    "rawg_id": null
   },
   {
     "id": 2,
+    "title": "Super Mario Odyssey",
+    "release_year": null,
+    "url": "https://www.youtube.com/watch?v=C1OV_magiDo",
+    "yt_id": "C1OV_magiDo",
+    "yt_thumbnail": "https://i.ytimg.com/vi/C1OV_magiDo/mqdefault.jpg",
+    "rawg_id": null
+  },
+  {
+    "id": 3,
     "title": "Spider-Man 2",
     "release_year": "2004",
     "url": "https://www.youtube.com/watch?v=HI2rLVi2JYI",
@@ -18,34 +27,52 @@
     "rawg_id": 24953
   },
   {
-    "id": 3,
-    "title": "Kingdom Hearts 2",
-    "release_year": "2005",
-    "url": "https://www.youtube.com/watch?v=mywZRiaEh24",
-    "yt_id": "mywZRiaEh24",
-    "yt_thumbnail": "https://i.ytimg.com/vi/mywZRiaEh24/mqdefault.jpg",
-    "rawg_id": 127659
-  },
-  {
     "id": 4,
-    "title": "Kingdom Hearts 2",
-    "release_year": "2005",
-    "url": "https://www.youtube.com/watch?v=c0T9pKZ58OM",
-    "yt_id": "c0T9pKZ58OM",
-    "yt_thumbnail": "https://i.ytimg.com/vi/c0T9pKZ58OM/mqdefault.jpg",
-    "rawg_id": 127659
+    "title": "Kingdom Hearts",
+    "release_year": "2011",
+    "url": "https://www.youtube.com/watch?v=EJ6dnC7uj3k",
+    "yt_id": "EJ6dnC7uj3k",
+    "yt_thumbnail": "https://i.ytimg.com/vi/EJ6dnC7uj3k/mqdefault.jpg",
+    "rawg_id": 24329
   },
   {
     "id": 5,
-    "title": "Fallout: New Vegas",
-    "release_year": "2010",
-    "url": "https://www.youtube.com/watch?v=ttZTd5pp0n4",
-    "yt_id": "ttZTd5pp0n4",
-    "yt_thumbnail": "https://i.ytimg.com/vi/ttZTd5pp0n4/mqdefault.jpg",
-    "rawg_id": 5563
+    "title": "Kingdom Hearts 2 - PART 1",
+    "release_year": null,
+    "url": "https://www.youtube.com/watch?v=mywZRiaEh24",
+    "yt_id": "mywZRiaEh24",
+    "yt_thumbnail": "https://i.ytimg.com/vi/mywZRiaEh24/mqdefault.jpg",
+    "rawg_id": null
   },
   {
     "id": 6,
+    "title": "Crash Bandicoot 2: Cortex Strikes Back",
+    "release_year": "1997",
+    "url": "https://www.youtube.com/watch?v=f0UrsTrH7uw",
+    "yt_id": "f0UrsTrH7uw",
+    "yt_thumbnail": "https://i.ytimg.com/vi/f0UrsTrH7uw/mqdefault.jpg",
+    "rawg_id": 52827
+  },
+  {
+    "id": 7,
+    "title": "Kingdom Hearts 2 - PART 2",
+    "release_year": null,
+    "url": "https://www.youtube.com/watch?v=c0T9pKZ58OM",
+    "yt_id": "c0T9pKZ58OM",
+    "yt_thumbnail": "https://i.ytimg.com/vi/c0T9pKZ58OM/mqdefault.jpg",
+    "rawg_id": null
+  },
+  {
+    "id": 8,
+    "title": "GTA 5 With Mods",
+    "release_year": null,
+    "url": "https://www.youtube.com/watch?v=R1wQGmiWK4U",
+    "yt_id": "R1wQGmiWK4U",
+    "yt_thumbnail": "https://i.ytimg.com/vi/R1wQGmiWK4U/mqdefault.jpg",
+    "rawg_id": null
+  },
+  {
+    "id": 9,
     "title": "Crash N. Sane Trilogy",
     "release_year": "2017",
     "url": "https://www.youtube.com/watch?v=ZZs7SaQOiVc",
@@ -54,8 +81,26 @@
     "rawg_id": 34
   },
   {
-    "id": 7,
-    "title": "Pokemon Red Version",
+    "id": 10,
+    "title": "Witch Hunt",
+    "release_year": null,
+    "url": "https://www.youtube.com/watch?v=aVk6fPP8074",
+    "yt_id": "aVk6fPP8074",
+    "yt_thumbnail": "https://i.ytimg.com/vi/aVk6fPP8074/mqdefault.jpg",
+    "rawg_id": null
+  },
+  {
+    "id": 11,
+    "title": "Dark Souls",
+    "release_year": "2018",
+    "url": "https://www.youtube.com/watch?v=mTImiu5VERs",
+    "yt_id": "mTImiu5VERs",
+    "yt_thumbnail": "https://i.ytimg.com/vi/mTImiu5VERs/mqdefault.jpg",
+    "rawg_id": 51610
+  },
+  {
+    "id": 12,
+    "title": "Pokemon Red Version - PART 1",
     "release_year": "1996",
     "url": "https://www.youtube.com/watch?v=9Rnw7INyFHs",
     "yt_id": "9Rnw7INyFHs",
@@ -63,8 +108,8 @@
     "rawg_id": 23762
   },
   {
-    "id": 8,
-    "title": "Pokemon Red Version",
+    "id": 13,
+    "title": "Pokemon Red Version - PART 2",
     "release_year": "1996",
     "url": "https://www.youtube.com/watch?v=edj4tuH9Tg8",
     "yt_id": "edj4tuH9Tg8",
@@ -72,67 +117,22 @@
     "rawg_id": 23762
   },
   {
-    "id": 9,
-    "title": "Witch Hunt",
-    "release_year": "2018",
-    "url": "https://www.youtube.com/watch?v=aVk6fPP8074",
-    "yt_id": "aVk6fPP8074",
-    "yt_thumbnail": "https://i.ytimg.com/vi/aVk6fPP8074/mqdefault.jpg",
-    "rawg_id": 242761
-  },
-  {
-    "id": 10,
-    "title": "GTA 5 With Mods",
-    "release_year": "2013",
-    "url": "https://www.youtube.com/watch?v=R1wQGmiWK4U",
-    "yt_id": "R1wQGmiWK4U",
-    "yt_thumbnail": "https://i.ytimg.com/vi/R1wQGmiWK4U/mqdefault.jpg",
-    "rawg_id": 3498
-  },
-  {
-    "id": 11,
-    "title": "Dark Souls",
-    "release_year": "2011",
-    "url": "https://www.youtube.com/watch?v=i6WxCSQoIfI",
-    "yt_id": "i6WxCSQoIfI",
-    "yt_thumbnail": "https://i.ytimg.com/vi/i6WxCSQoIfI/mqdefault.jpg",
-    "rawg_id": 5538
-  },
-  {
-    "id": 12,
-    "title": "Kingdom Hearts",
-    "release_year": "2002",
-    "url": "https://www.youtube.com/watch?v=EJ6dnC7uj3k",
-    "yt_id": "EJ6dnC7uj3k",
-    "yt_thumbnail": "https://i.ytimg.com/vi/EJ6dnC7uj3k/mqdefault.jpg",
-    "rawg_id": 59184
-  },
-  {
-    "id": 13,
-    "title": "Crash Bandicoot 2: Cortex Strikes Back",
-    "release_year": "1997",
-    "url": "https://www.youtube.com/watch?v=mEYGSRC04rQ",
-    "yt_id": "mEYGSRC04rQ",
-    "yt_thumbnail": "https://i.ytimg.com/vi/mEYGSRC04rQ/mqdefault.jpg",
-    "rawg_id": 52827
-  },
-  {
     "id": 14,
-    "title": "The Binding of Isaac",
-    "release_year": "2011",
-    "url": "https://www.youtube.com/watch?v=f3nA65byfUg",
-    "yt_id": "f3nA65byfUg",
-    "yt_thumbnail": "https://i.ytimg.com/vi/f3nA65byfUg/mqdefault.jpg",
-    "rawg_id": 19384
+    "title": "Resident Evil 4",
+    "release_year": "2005",
+    "url": "https://www.youtube.com/watch?v=-NrrMyYD2L8",
+    "yt_id": "-NrrMyYD2L8",
+    "yt_thumbnail": "https://i.ytimg.com/vi/-NrrMyYD2L8/mqdefault.jpg",
+    "rawg_id": 56184
   },
   {
     "id": 15,
-    "title": "Pikmin",
-    "release_year": "2001",
-    "url": "https://www.youtube.com/watch?v=5qtL6fDJhg8",
-    "yt_id": "5qtL6fDJhg8",
-    "yt_thumbnail": "https://i.ytimg.com/vi/5qtL6fDJhg8/mqdefault.jpg",
-    "rawg_id": 56170
+    "title": "The Binding of Isaac",
+    "release_year": "2017",
+    "url": "https://www.youtube.com/watch?v=f3nA65byfUg",
+    "yt_id": "f3nA65byfUg",
+    "yt_thumbnail": "https://i.ytimg.com/vi/f3nA65byfUg/mqdefault.jpg",
+    "rawg_id": 23742
   },
   {
     "id": 16,
@@ -154,21 +154,21 @@
   },
   {
     "id": 18,
-    "title": "Resident Evil 4",
-    "release_year": "2005",
-    "url": "https://www.youtube.com/watch?v=-NrrMyYD2L8",
-    "yt_id": "-NrrMyYD2L8",
-    "yt_thumbnail": "https://i.ytimg.com/vi/-NrrMyYD2L8/mqdefault.jpg",
-    "rawg_id": 56184
-  },
-  {
-    "id": 19,
     "title": "Super Mario Bros 3",
     "release_year": "1988",
     "url": "https://www.youtube.com/watch?v=b-3x_Sxchw0",
     "yt_id": "b-3x_Sxchw0",
     "yt_thumbnail": "https://i.ytimg.com/vi/b-3x_Sxchw0/mqdefault.jpg",
     "rawg_id": 24030
+  },
+  {
+    "id": 19,
+    "title": "Pikmin",
+    "release_year": "2001",
+    "url": "https://www.youtube.com/watch?v=5qtL6fDJhg8",
+    "yt_id": "5qtL6fDJhg8",
+    "yt_thumbnail": "https://i.ytimg.com/vi/5qtL6fDJhg8/mqdefault.jpg",
+    "rawg_id": 56170
   },
   {
     "id": 20,
@@ -190,7 +190,7 @@
   },
   {
     "id": 22,
-    "title": "Crash Bandicoot 3: Warped ",
+    "title": "Crash Bandicoot 3: Warped",
     "release_year": "1998",
     "url": "https://www.youtube.com/watch?v=KBm_U564pI8",
     "yt_id": "KBm_U564pI8",
@@ -244,15 +244,33 @@
   },
   {
     "id": 28,
-    "title": "Harry Potter And The Chamber Of Secrets",
-    "release_year": "2002",
-    "url": "https://www.youtube.com/watch?v=mae2i1atCWk",
-    "yt_id": "mae2i1atCWk",
-    "yt_thumbnail": "https://i.ytimg.com/vi/mae2i1atCWk/mqdefault.jpg",
-    "rawg_id": 31476
+    "title": "Katamari Damacy REROLL",
+    "release_year": "2018",
+    "url": "https://www.youtube.com/watch?v=gigMO_D4YtQ",
+    "yt_id": "gigMO_D4YtQ",
+    "yt_thumbnail": "https://i.ytimg.com/vi/gigMO_D4YtQ/mqdefault.jpg",
+    "rawg_id": 244741
   },
   {
     "id": 29,
+    "title": "My Friend Pedro",
+    "release_year": "2019",
+    "url": "https://www.youtube.com/watch?v=ON9Tq0XLBZY",
+    "yt_id": "ON9Tq0XLBZY",
+    "yt_thumbnail": "https://i.ytimg.com/vi/ON9Tq0XLBZY/mqdefault.jpg",
+    "rawg_id": 11663
+  },
+  {
+    "id": 30,
+    "title": "Harry Potter And The Chamber Of Secrets",
+    "release_year": "2019",
+    "url": "https://www.youtube.com/watch?v=mae2i1atCWk",
+    "yt_id": "mae2i1atCWk",
+    "yt_thumbnail": "https://i.ytimg.com/vi/mae2i1atCWk/mqdefault.jpg",
+    "rawg_id": 293932
+  },
+  {
+    "id": 31,
     "title": "Slender The Arrival",
     "release_year": "2013",
     "url": "https://www.youtube.com/watch?v=-s1h1X7oOIM",
@@ -261,16 +279,70 @@
     "rawg_id": 3396
   },
   {
-    "id": 30,
+    "id": 32,
+    "title": "Fallout: New Vegas",
+    "release_year": "2010",
+    "url": "https://www.youtube.com/watch?v=ttZTd5pp0n4",
+    "yt_id": "ttZTd5pp0n4",
+    "yt_thumbnail": "https://i.ytimg.com/vi/ttZTd5pp0n4/mqdefault.jpg",
+    "rawg_id": 5563
+  },
+  {
+    "id": 33,
+    "title": "Overgrowth",
+    "release_year": "2017",
+    "url": "https://www.youtube.com/watch?v=521-Y4RlTYc",
+    "yt_id": "521-Y4RlTYc",
+    "yt_thumbnail": "https://i.ytimg.com/vi/521-Y4RlTYc/mqdefault.jpg",
+    "rawg_id": 9712
+  },
+  {
+    "id": 34,
+    "title": "UNCHARTED 2 - Oney Plays",
+    "release_year": "2009",
+    "url": "https://www.youtube.com/watch?v=6d_swc9SRH8",
+    "yt_id": "6d_swc9SRH8",
+    "yt_thumbnail": "https://i.ytimg.com/vi/6d_swc9SRH8/mqdefault.jpg",
+    "rawg_id": 22513
+  },
+  {
+    "id": 35,
+    "title": "Resident Evil 2 (2019)",
+    "release_year": "2019",
+    "url": "https://www.youtube.com/watch?v=tpA58Q6zhl4",
+    "yt_id": "tpA58Q6zhl4",
+    "yt_thumbnail": "https://i.ytimg.com/vi/tpA58Q6zhl4/mqdefault.jpg",
+    "rawg_id": 58813
+  },
+  {
+    "id": 36,
+    "title": "DmC: Devil May Cry",
+    "release_year": "2013",
+    "url": "https://www.youtube.com/watch?v=XAMEojsn_fY",
+    "yt_id": "XAMEojsn_fY",
+    "yt_thumbnail": "https://i.ytimg.com/vi/XAMEojsn_fY/mqdefault.jpg",
+    "rawg_id": 18241
+  },
+  {
+    "id": 37,
     "title": "Marble Blast Ultra",
-    "release_year": "2011",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=oQv_itiGh0c",
     "yt_id": "oQv_itiGh0c",
     "yt_thumbnail": "https://i.ytimg.com/vi/oQv_itiGh0c/mqdefault.jpg",
-    "rawg_id": 288628
+    "rawg_id": null
   },
   {
-    "id": 31,
+    "id": 38,
+    "title": "Sonic the Hedgehog",
+    "release_year": "2006",
+    "url": "https://www.youtube.com/watch?v=si-mdZTQBAg",
+    "yt_id": "si-mdZTQBAg",
+    "yt_thumbnail": "https://i.ytimg.com/vi/si-mdZTQBAg/mqdefault.jpg",
+    "rawg_id": 283965
+  },
+  {
+    "id": 39,
     "title": "Mr. Bones",
     "release_year": null,
     "url": "https://www.youtube.com/watch?v=6HyElESP8bg",
@@ -279,8 +351,8 @@
     "rawg_id": 369031
   },
   {
-    "id": 32,
-    "title": "Final Fantasy VII",
+    "id": 40,
+    "title": "Final Fantasy VII [2017 playthrough]",
     "release_year": "1997",
     "url": "https://www.youtube.com/watch?v=uKrU9g6JmVg",
     "yt_id": "uKrU9g6JmVg",
@@ -288,7 +360,7 @@
     "rawg_id": 52939
   },
   {
-    "id": 33,
+    "id": 41,
     "title": "Rugrats Search for Reptar",
     "release_year": "1998",
     "url": "https://www.youtube.com/watch?v=He_W8Xjztoc",
@@ -297,7 +369,7 @@
     "rawg_id": 57737
   },
   {
-    "id": 34,
+    "id": 42,
     "title": "Crash Bandicoot: Wrath of Cortex",
     "release_year": "2001",
     "url": "https://www.youtube.com/watch?v=_nRfJptXgWg",
@@ -306,16 +378,16 @@
     "rawg_id": 49868
   },
   {
-    "id": 35,
+    "id": 43,
     "title": "Mario Artist: Paint Studio",
-    "release_year": "1992",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=nVtbnGnCQUA",
     "yt_id": "nVtbnGnCQUA",
     "yt_thumbnail": "https://i.ytimg.com/vi/nVtbnGnCQUA/mqdefault.jpg",
-    "rawg_id": 57414
+    "rawg_id": null
   },
   {
-    "id": 36,
+    "id": 44,
     "title": "Crash Bandicoot",
     "release_year": "1996",
     "url": "https://www.youtube.com/watch?v=B0rnOeXpaWM",
@@ -324,16 +396,7 @@
     "rawg_id": 5488
   },
   {
-    "id": 37,
-    "title": "Uncharted 2",
-    "release_year": "2009",
-    "url": "https://www.youtube.com/watch?v=LsD5zMolU2s",
-    "yt_id": "LsD5zMolU2s",
-    "yt_thumbnail": "https://i.ytimg.com/vi/LsD5zMolU2s/mqdefault.jpg",
-    "rawg_id": 22513
-  },
-  {
-    "id": 38,
+    "id": 45,
     "title": "Ouya",
     "release_year": null,
     "url": "https://www.youtube.com/watch?v=t-6IPlps5TY",
@@ -342,34 +405,34 @@
     "rawg_id": null
   },
   {
-    "id": 39,
+    "id": 46,
     "title": "Deadly Premonition",
-    "release_year": "2009",
+    "release_year": "2010",
     "url": "https://www.youtube.com/watch?v=VAtK6ZakTgk",
     "yt_id": "VAtK6ZakTgk",
     "yt_thumbnail": "https://i.ytimg.com/vi/VAtK6ZakTgk/mqdefault.jpg",
-    "rawg_id": 29037
+    "rawg_id": 4023
   },
   {
-    "id": 40,
+    "id": 47,
     "title": "Donkey Kong Country 2",
-    "release_year": "1995",
+    "release_year": "1994",
     "url": "https://www.youtube.com/watch?v=3HnJoobC0j4",
     "yt_id": "3HnJoobC0j4",
     "yt_thumbnail": "https://i.ytimg.com/vi/3HnJoobC0j4/mqdefault.jpg",
-    "rawg_id": 53251
+    "rawg_id": 27571
   },
   {
-    "id": 41,
+    "id": 48,
     "title": "Friday The 13th",
-    "release_year": "1989",
+    "release_year": "2017",
     "url": "https://www.youtube.com/watch?v=NnhIbMejxa4",
     "yt_id": "NnhIbMejxa4",
     "yt_thumbnail": "https://i.ytimg.com/vi/NnhIbMejxa4/mqdefault.jpg",
-    "rawg_id": 53826
+    "rawg_id": 9891
   },
   {
-    "id": 42,
+    "id": 49,
     "title": "LocoRoco",
     "release_year": "2017",
     "url": "https://www.youtube.com/watch?v=GWM2E0QCyaQ",
@@ -378,7 +441,7 @@
     "rawg_id": 23216
   },
   {
-    "id": 43,
+    "id": 50,
     "title": "Bloodborne",
     "release_year": "2015",
     "url": "https://www.youtube.com/watch?v=_2Jfeiyp98s",
@@ -387,26 +450,26 @@
     "rawg_id": 3387
   },
   {
-    "id": 44,
+    "id": 51,
     "title": "Illbleed",
-    "release_year": "2001",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=MBN3RPHqLBE",
     "yt_id": "MBN3RPHqLBE",
     "yt_thumbnail": "https://i.ytimg.com/vi/MBN3RPHqLBE/mqdefault.jpg",
-    "rawg_id": 54663
+    "rawg_id": null
   },
   {
-    "id": 45,
+    "id": 52,
     "title": "Action 52",
-    "release_year": "1991",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=GOpW3zfMATE",
     "yt_id": "GOpW3zfMATE",
     "yt_thumbnail": "https://i.ytimg.com/vi/GOpW3zfMATE/mqdefault.jpg",
-    "rawg_id": 54173
+    "rawg_id": null
   },
   {
-    "id": 46,
-    "title": "Crash Twinsanity ",
+    "id": 53,
+    "title": "Crash Twinsanity",
     "release_year": "2004",
     "url": "https://www.youtube.com/watch?v=KnUxkIfRQQ8",
     "yt_id": "KnUxkIfRQQ8",
@@ -414,16 +477,16 @@
     "rawg_id": 59192
   },
   {
-    "id": 47,
+    "id": 54,
     "title": "Polar Express",
-    "release_year": "2004",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=VGplaG4igT0",
     "yt_id": "VGplaG4igT0",
     "yt_thumbnail": "https://i.ytimg.com/vi/VGplaG4igT0/mqdefault.jpg",
-    "rawg_id": 35884
+    "rawg_id": null
   },
   {
-    "id": 48,
+    "id": 55,
     "title": "MEGA MAN X",
     "release_year": "2010",
     "url": "https://www.youtube.com/watch?v=FCKq51H04CE",
@@ -432,16 +495,25 @@
     "rawg_id": 5063
   },
   {
-    "id": 49,
+    "id": 56,
     "title": "Croc",
-    "release_year": "2000",
+    "release_year": "1997",
     "url": "https://www.youtube.com/watch?v=cuC5oFVWVFg",
     "yt_id": "cuC5oFVWVFg",
     "yt_thumbnail": "https://i.ytimg.com/vi/cuC5oFVWVFg/mqdefault.jpg",
-    "rawg_id": 244710
+    "rawg_id": 29387
   },
   {
-    "id": 50,
+    "id": 57,
+    "title": "Spyro the Dragon Games - Oney Plays",
+    "release_year": "1998",
+    "url": "https://www.youtube.com/watch?v=6yLb_yx_Tpc",
+    "yt_id": "6yLb_yx_Tpc",
+    "yt_thumbnail": "https://i.ytimg.com/vi/6yLb_yx_Tpc/mqdefault.jpg",
+    "rawg_id": 57797
+  },
+  {
+    "id": 58,
     "title": "Rayman Origins",
     "release_year": "2011",
     "url": "https://www.youtube.com/watch?v=DPNz6C7EN6U",
@@ -450,7 +522,7 @@
     "rawg_id": 4361
   },
   {
-    "id": 51,
+    "id": 59,
     "title": "Crash Team Racing (CTR) Nitro-Fueled",
     "release_year": "2019",
     "url": "https://www.youtube.com/watch?v=UdrqiRM8-lI",
@@ -459,34 +531,34 @@
     "rawg_id": 274571
   },
   {
-    "id": 52,
-    "title": "Dark Souls",
-    "release_year": "2011",
+    "id": 60,
+    "title": "Dark Souls [2014 Playthrough]",
+    "release_year": "2018",
     "url": "https://www.youtube.com/watch?v=pXEbzzlJHrg",
     "yt_id": "pXEbzzlJHrg",
     "yt_thumbnail": "https://i.ytimg.com/vi/pXEbzzlJHrg/mqdefault.jpg",
-    "rawg_id": 5538
+    "rawg_id": 51610
   },
   {
-    "id": 53,
-    "title": "Ape Escape",
-    "release_year": "1999",
+    "id": 61,
+    "title": "[Private video]",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=RTNevxSjj-c",
     "yt_id": "RTNevxSjj-c",
     "yt_thumbnail": "https://i.ytimg.com/vi/RTNevxSjj-c/mqdefault.jpg",
-    "rawg_id": 52670
+    "rawg_id": null
   },
   {
-    "id": 54,
+    "id": 62,
     "title": "GTA: Vice City",
-    "release_year": "2002",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=CIZpTZqVX6A",
     "yt_id": "CIZpTZqVX6A",
     "yt_thumbnail": "https://i.ytimg.com/vi/CIZpTZqVX6A/mqdefault.jpg",
-    "rawg_id": 430
+    "rawg_id": null
   },
   {
-    "id": 55,
+    "id": 63,
     "title": "Luigi's Mansion",
     "release_year": "2001",
     "url": "https://www.youtube.com/watch?v=C9zlQ5BEstU",
@@ -495,16 +567,16 @@
     "rawg_id": 52312
   },
   {
-    "id": 56,
+    "id": 64,
     "title": "Wild Woody",
-    "release_year": "1995",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=wh8bthQVNks",
     "yt_id": "wh8bthQVNks",
     "yt_thumbnail": "https://i.ytimg.com/vi/wh8bthQVNks/mqdefault.jpg",
-    "rawg_id": 54332
+    "rawg_id": null
   },
   {
-    "id": 57,
+    "id": 65,
     "title": "The Legend of Zelda: The Wind Waker",
     "release_year": "2002",
     "url": "https://www.youtube.com/watch?v=JB2HEsjghAU",
@@ -513,7 +585,7 @@
     "rawg_id": 56092
   },
   {
-    "id": 58,
+    "id": 66,
     "title": "Jak and Daxter",
     "release_year": "2001",
     "url": "https://www.youtube.com/watch?v=fbIgFtRoC1Y",
@@ -522,7 +594,7 @@
     "rawg_id": 4469
   },
   {
-    "id": 59,
+    "id": 67,
     "title": "American Truck Simulator",
     "release_year": "2016",
     "url": "https://www.youtube.com/watch?v=zvbxF3ufwz4",
@@ -531,7 +603,7 @@
     "rawg_id": 10758
   },
   {
-    "id": 60,
+    "id": 68,
     "title": "Plumbers Don't Wear Ties",
     "release_year": null,
     "url": "https://www.youtube.com/watch?v=LCr-X2LimO0",
@@ -540,34 +612,34 @@
     "rawg_id": null
   },
   {
-    "id": 61,
+    "id": 69,
     "title": "Mario 64 Multiplayer",
-    "release_year": "1996",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=R_gdKYKkQ3Q",
     "yt_id": "R_gdKYKkQ3Q",
     "yt_thumbnail": "https://i.ytimg.com/vi/R_gdKYKkQ3Q/mqdefault.jpg",
-    "rawg_id": 54528
+    "rawg_id": null
   },
   {
-    "id": 62,
+    "id": 70,
     "title": "Mystical Ninja",
-    "release_year": "1997",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=bkXsg1anHkY",
     "yt_id": "bkXsg1anHkY",
     "yt_thumbnail": "https://i.ytimg.com/vi/bkXsg1anHkY/mqdefault.jpg",
-    "rawg_id": 54449
+    "rawg_id": null
   },
   {
-    "id": 63,
+    "id": 71,
     "title": "Sonic Adventure 2 Battle",
     "release_year": "2001",
     "url": "https://www.youtube.com/watch?v=smNWhTWgKho",
     "yt_id": "smNWhTWgKho",
     "yt_thumbnail": "https://i.ytimg.com/vi/smNWhTWgKho/mqdefault.jpg",
-    "rawg_id": 244695
+    "rawg_id": 343597
   },
   {
-    "id": 64,
+    "id": 72,
     "title": "Lollipop Chainsaw",
     "release_year": "2012",
     "url": "https://www.youtube.com/watch?v=VNSx6SokckA",
@@ -576,25 +648,25 @@
     "rawg_id": 5610
   },
   {
-    "id": 65,
+    "id": 73,
     "title": "Marble It Up",
-    "release_year": "2018",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=uo94MnYrzPo",
     "yt_id": "uo94MnYrzPo",
     "yt_thumbnail": "https://i.ytimg.com/vi/uo94MnYrzPo/mqdefault.jpg",
-    "rawg_id": 244247
+    "rawg_id": null
   },
   {
-    "id": 66,
+    "id": 74,
     "title": "Blue Stinger",
-    "release_year": "1999",
+    "release_year": "2014",
     "url": "https://www.youtube.com/watch?v=s-iWXO0zSMo",
     "yt_id": "s-iWXO0zSMo",
     "yt_thumbnail": "https://i.ytimg.com/vi/s-iWXO0zSMo/mqdefault.jpg",
-    "rawg_id": 54615
+    "rawg_id": 2408
   },
   {
-    "id": 67,
+    "id": 75,
     "title": "God Of War",
     "release_year": "2005",
     "url": "https://www.youtube.com/watch?v=zI_TAHu0GDY",
@@ -603,7 +675,7 @@
     "rawg_id": 29179
   },
   {
-    "id": 68,
+    "id": 76,
     "title": "Yo Noid 2",
     "release_year": null,
     "url": "https://www.youtube.com/watch?v=2gmj6oJmygk",
@@ -612,16 +684,16 @@
     "rawg_id": null
   },
   {
-    "id": 69,
+    "id": 77,
     "title": "Revolution 60",
-    "release_year": "2016",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=wX4kxGdwmdM",
     "yt_id": "wX4kxGdwmdM",
     "yt_thumbnail": "https://i.ytimg.com/vi/wX4kxGdwmdM/mqdefault.jpg",
-    "rawg_id": 18463
+    "rawg_id": null
   },
   {
-    "id": 70,
+    "id": 78,
     "title": "Gang Beasts",
     "release_year": "2014",
     "url": "https://www.youtube.com/watch?v=W6mFibZZECw",
@@ -630,25 +702,25 @@
     "rawg_id": 11729
   },
   {
-    "id": 71,
+    "id": 79,
     "title": "Hercules",
-    "release_year": "1984",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=mEpRfSNZZPk",
     "yt_id": "mEpRfSNZZPk",
     "yt_thumbnail": "https://i.ytimg.com/vi/mEpRfSNZZPk/mqdefault.jpg",
-    "rawg_id": 56542
+    "rawg_id": null
   },
   {
-    "id": 72,
+    "id": 80,
     "title": "Jet Set Radio Future",
-    "release_year": "2002",
+    "release_year": "2000",
     "url": "https://www.youtube.com/watch?v=hT1V3Ray6Ms",
     "yt_id": "hT1V3Ray6Ms",
     "yt_thumbnail": "https://i.ytimg.com/vi/hT1V3Ray6Ms/mqdefault.jpg",
-    "rawg_id": 302304
+    "rawg_id": 53341
   },
   {
-    "id": 73,
+    "id": 81,
     "title": "No Man's Sky",
     "release_year": "2016",
     "url": "https://www.youtube.com/watch?v=c7vy-GZhQKo",
@@ -657,7 +729,7 @@
     "rawg_id": 2093
   },
   {
-    "id": 74,
+    "id": 82,
     "title": "Super Monkey Ball",
     "release_year": "2017",
     "url": "https://www.youtube.com/watch?v=JBdHqDywOKo",
@@ -666,16 +738,16 @@
     "rawg_id": 171069
   },
   {
-    "id": 75,
+    "id": 83,
     "title": "F-Zero X Expansion",
-    "release_year": "2007",
+    "release_year": "1990",
     "url": "https://www.youtube.com/watch?v=OvTsW_W0cUU",
     "yt_id": "OvTsW_W0cUU",
     "yt_thumbnail": "https://i.ytimg.com/vi/OvTsW_W0cUU/mqdefault.jpg",
-    "rawg_id": 23834
+    "rawg_id": 24918
   },
   {
-    "id": 76,
+    "id": 84,
     "title": "Rugrats Studio Tour",
     "release_year": "1999",
     "url": "https://www.youtube.com/watch?v=dXXfKWrvud8",
@@ -684,7 +756,7 @@
     "rawg_id": 57738
   },
   {
-    "id": 77,
+    "id": 85,
     "title": "Inside",
     "release_year": "2016",
     "url": "https://www.youtube.com/watch?v=iX45CI97cYU",
@@ -693,8 +765,8 @@
     "rawg_id": 1450
   },
   {
-    "id": 78,
-    "title": "Rugrats: Search for Reptar -",
+    "id": 86,
+    "title": "Rugrats: Search for Reptar - [2014 playthrough]",
     "release_year": "1998",
     "url": "https://www.youtube.com/watch?v=3uowfnbQndM",
     "yt_id": "3uowfnbQndM",
@@ -702,34 +774,34 @@
     "rawg_id": 57737
   },
   {
-    "id": 79,
+    "id": 87,
     "title": "Demon's Souls with Nakey Jakey",
-    "release_year": "2009",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=LACXgwcMeWs",
     "yt_id": "LACXgwcMeWs",
     "yt_thumbnail": "https://i.ytimg.com/vi/LACXgwcMeWs/mqdefault.jpg",
-    "rawg_id": 4108
+    "rawg_id": null
   },
   {
-    "id": 80,
-    "title": "D",
-    "release_year": "1995",
+    "id": 88,
+    "title": "D - Boney Plays",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=V3QUsAoYSq4",
     "yt_id": "V3QUsAoYSq4",
     "yt_thumbnail": "https://i.ytimg.com/vi/V3QUsAoYSq4/mqdefault.jpg",
-    "rawg_id": 29396
+    "rawg_id": null
   },
   {
-    "id": 81,
+    "id": 89,
     "title": "Nightmare Before Christmas",
-    "release_year": "2004",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=2wtl_q7JzUQ",
     "yt_id": "2wtl_q7JzUQ",
     "yt_thumbnail": "https://i.ytimg.com/vi/2wtl_q7JzUQ/mqdefault.jpg",
-    "rawg_id": 59173
+    "rawg_id": null
   },
   {
-    "id": 82,
+    "id": 90,
     "title": "Resident Evil 5",
     "release_year": "2009",
     "url": "https://www.youtube.com/watch?v=uDCj4GTQ_UA",
@@ -738,8 +810,8 @@
     "rawg_id": 13461
   },
   {
-    "id": 83,
-    "title": "Spider-Man 2",
+    "id": 91,
+    "title": "Spider-Man 2 (2014 Playthrough)",
     "release_year": "2004",
     "url": "https://www.youtube.com/watch?v=DqAam41Qau0",
     "yt_id": "DqAam41Qau0",
@@ -747,12 +819,237 @@
     "rawg_id": 24953
   },
   {
-    "id": 84,
+    "id": 92,
     "title": "Day Z",
-    "release_year": "2013",
+    "release_year": null,
     "url": "https://www.youtube.com/watch?v=cZoLPuTVJ00",
     "yt_id": "cZoLPuTVJ00",
     "yt_thumbnail": "https://i.ytimg.com/vi/cZoLPuTVJ00/mqdefault.jpg",
     "rawg_id": null
+  },
+  {
+    "id": 93,
+    "title": "Minority Report",
+    "release_year": "2002",
+    "url": "https://www.youtube.com/watch?v=1tl0Js9cFzk",
+    "yt_id": "1tl0Js9cFzk",
+    "yt_thumbnail": "https://i.ytimg.com/vi/1tl0Js9cFzk/mqdefault.jpg",
+    "rawg_id": 53425
+  },
+  {
+    "id": 94,
+    "title": "Resident Evil (2017 playthrough)",
+    "release_year": null,
+    "url": "https://www.youtube.com/watch?v=Tb78TNSu3Xk",
+    "yt_id": "Tb78TNSu3Xk",
+    "yt_thumbnail": "https://i.ytimg.com/vi/Tb78TNSu3Xk/mqdefault.jpg",
+    "rawg_id": 452649
+  },
+  {
+    "id": 95,
+    "title": "Catwoman",
+    "release_year": "2004",
+    "url": "https://www.youtube.com/watch?v=9KqUe11srkY",
+    "yt_id": "9KqUe11srkY",
+    "yt_thumbnail": "https://i.ytimg.com/vi/9KqUe11srkY/mqdefault.jpg",
+    "rawg_id": 35800
+  },
+  {
+    "id": 96,
+    "title": "Don't Starve",
+    "release_year": "2013",
+    "url": "https://www.youtube.com/watch?v=Pyk28M_PZNw",
+    "yt_id": "Pyk28M_PZNw",
+    "yt_thumbnail": "https://i.ytimg.com/vi/Pyk28M_PZNw/mqdefault.jpg",
+    "rawg_id": 9475
+  },
+  {
+    "id": 97,
+    "title": "Shantae",
+    "release_year": null,
+    "url": "https://www.youtube.com/watch?v=FuD8BMrVEO0",
+    "yt_id": "FuD8BMrVEO0",
+    "yt_thumbnail": "https://i.ytimg.com/vi/FuD8BMrVEO0/mqdefault.jpg",
+    "rawg_id": null
+  },
+  {
+    "id": 98,
+    "title": "Super Magnetic Neo",
+    "release_year": null,
+    "url": "https://www.youtube.com/watch?v=upTRvTVl6-M",
+    "yt_id": "upTRvTVl6-M",
+    "yt_thumbnail": "https://i.ytimg.com/vi/upTRvTVl6-M/mqdefault.jpg",
+    "rawg_id": null
+  },
+  {
+    "id": 99,
+    "title": "Gex",
+    "release_year": "1996",
+    "url": "https://www.youtube.com/watch?v=mMzBnStSAV4",
+    "yt_id": "mMzBnStSAV4",
+    "yt_thumbnail": "https://i.ytimg.com/vi/mMzBnStSAV4/mqdefault.jpg",
+    "rawg_id": 5170
+  },
+  {
+    "id": 100,
+    "title": "Tomb Raider (2013)",
+    "release_year": "2013",
+    "url": "https://www.youtube.com/watch?v=Km7o-QKUxek",
+    "yt_id": "Km7o-QKUxek",
+    "yt_thumbnail": "https://i.ytimg.com/vi/Km7o-QKUxek/mqdefault.jpg",
+    "rawg_id": 5286
+  },
+  {
+    "id": 101,
+    "title": "Earthworm Jim 2",
+    "release_year": "1994",
+    "url": "https://www.youtube.com/watch?v=4VvPs9kEHRE",
+    "yt_id": "4VvPs9kEHRE",
+    "yt_thumbnail": "https://i.ytimg.com/vi/4VvPs9kEHRE/mqdefault.jpg",
+    "rawg_id": 53274
+  },
+  {
+    "id": 102,
+    "title": "Far Cry 5",
+    "release_year": "2004",
+    "url": "https://www.youtube.com/watch?v=06WXeI1l9AA",
+    "yt_id": "06WXeI1l9AA",
+    "yt_thumbnail": "https://i.ytimg.com/vi/06WXeI1l9AA/mqdefault.jpg",
+    "rawg_id": 19560
+  },
+  {
+    "id": 103,
+    "title": "Donkey Kong Country 2 (2017 Playthrough)",
+    "release_year": "1994",
+    "url": "https://www.youtube.com/watch?v=Dl_tv--2shw",
+    "yt_id": "Dl_tv--2shw",
+    "yt_thumbnail": "https://i.ytimg.com/vi/Dl_tv--2shw/mqdefault.jpg",
+    "rawg_id": 27571
+  },
+  {
+    "id": 104,
+    "title": "PUBG (PLAYERUNKNOWN'S BATTLEGROUNDS)",
+    "release_year": null,
+    "url": "https://www.youtube.com/watch?v=CPOWBoYA-HE",
+    "yt_id": "CPOWBoYA-HE",
+    "yt_thumbnail": "https://i.ytimg.com/vi/CPOWBoYA-HE/mqdefault.jpg",
+    "rawg_id": null
+  },
+  {
+    "id": 105,
+    "title": "God of War (2018)",
+    "release_year": "2005",
+    "url": "https://www.youtube.com/watch?v=uzkG9ePbC84",
+    "yt_id": "uzkG9ePbC84",
+    "yt_thumbnail": "https://i.ytimg.com/vi/uzkG9ePbC84/mqdefault.jpg",
+    "rawg_id": 29179
+  },
+  {
+    "id": 106,
+    "title": "ZELDA ROM HACK (Parallel Worlds) - Oney Plays",
+    "release_year": null,
+    "url": "https://www.youtube.com/watch?v=7xrYkTgOpLE",
+    "yt_id": "7xrYkTgOpLE",
+    "yt_thumbnail": "https://i.ytimg.com/vi/7xrYkTgOpLE/mqdefault.jpg",
+    "rawg_id": null
+  },
+  {
+    "id": 107,
+    "title": "Blasphemous - Oney Plays",
+    "release_year": "2019",
+    "url": "https://www.youtube.com/watch?v=xNbuVYaP9Wc",
+    "yt_id": "xNbuVYaP9Wc",
+    "yt_thumbnail": "https://i.ytimg.com/vi/xNbuVYaP9Wc/mqdefault.jpg",
+    "rawg_id": 258322
+  },
+  {
+    "id": 108,
+    "title": "CONTROL - Oney Plays",
+    "release_year": "2020",
+    "url": "https://www.youtube.com/watch?v=G-eLLSKJcdM",
+    "yt_id": "G-eLLSKJcdM",
+    "yt_thumbnail": "https://i.ytimg.com/vi/G-eLLSKJcdM/mqdefault.jpg",
+    "rawg_id": 388314
+  },
+  {
+    "id": 109,
+    "title": "Shenmue",
+    "release_year": "1999",
+    "url": "https://www.youtube.com/watch?v=5nW32uohtww",
+    "yt_id": "5nW32uohtww",
+    "yt_thumbnail": "https://i.ytimg.com/vi/5nW32uohtww/mqdefault.jpg",
+    "rawg_id": 51673
+  },
+  {
+    "id": 110,
+    "title": "MICK'S EPIC DARK SOULS 3 RUN (2019)",
+    "release_year": null,
+    "url": "https://www.youtube.com/watch?v=Y8IN00PtWb4",
+    "yt_id": "Y8IN00PtWb4",
+    "yt_thumbnail": "https://i.ytimg.com/vi/Y8IN00PtWb4/mqdefault.jpg",
+    "rawg_id": null
+  },
+  {
+    "id": 111,
+    "title": "Sekiro: Shadows Die Twice",
+    "release_year": "2019",
+    "url": "https://www.youtube.com/watch?v=lPoUyPUTxmU",
+    "yt_id": "lPoUyPUTxmU",
+    "yt_thumbnail": "https://i.ytimg.com/vi/lPoUyPUTxmU/mqdefault.jpg",
+    "rawg_id": 50734
+  },
+  {
+    "id": 112,
+    "title": "Dragon's Dogma: Dark Arisen",
+    "release_year": "2013",
+    "url": "https://www.youtube.com/watch?v=kpWhUbENWEY",
+    "yt_id": "kpWhUbENWEY",
+    "yt_thumbnail": "https://i.ytimg.com/vi/kpWhUbENWEY/mqdefault.jpg",
+    "rawg_id": 4032
+  },
+  {
+    "id": 113,
+    "title": "Revenge of Shinobi",
+    "release_year": null,
+    "url": "https://www.youtube.com/watch?v=R_A_PDWp6Fs",
+    "yt_id": "R_A_PDWp6Fs",
+    "yt_thumbnail": "https://i.ytimg.com/vi/R_A_PDWp6Fs/mqdefault.jpg",
+    "rawg_id": null
+  },
+  {
+    "id": 114,
+    "title": "Wheel Travel",
+    "release_year": null,
+    "url": "https://www.youtube.com/watch?v=SF3Qi-rrqr8",
+    "yt_id": "SF3Qi-rrqr8",
+    "yt_thumbnail": "https://i.ytimg.com/vi/SF3Qi-rrqr8/mqdefault.jpg",
+    "rawg_id": null
+  },
+  {
+    "id": 115,
+    "title": "Indivisible",
+    "release_year": "2019",
+    "url": "https://www.youtube.com/watch?v=KsmXZrKUkfI",
+    "yt_id": "KsmXZrKUkfI",
+    "yt_thumbnail": "https://i.ytimg.com/vi/KsmXZrKUkfI/mqdefault.jpg",
+    "rawg_id": 29233
+  },
+  {
+    "id": 116,
+    "title": "Binding of Isaac: Antibirth (FAN MOD)",
+    "release_year": null,
+    "url": "https://www.youtube.com/watch?v=bLiB2Sl1_Lk",
+    "yt_id": "bLiB2Sl1_Lk",
+    "yt_thumbnail": "https://i.ytimg.com/vi/bLiB2Sl1_Lk/mqdefault.jpg",
+    "rawg_id": null
+  },
+  {
+    "id": 117,
+    "title": "Half-Life 2",
+    "release_year": "2004",
+    "url": "https://www.youtube.com/watch?v=NLasCk67Wcc",
+    "yt_id": "NLasCk67Wcc",
+    "yt_thumbnail": "https://i.ytimg.com/vi/NLasCk67Wcc/mqdefault.jpg",
+    "rawg_id": 13537
   }
 ]
